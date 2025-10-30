@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // Decide baseURL. In CRA, env vars must start with REACT_APP_
-const baseURL = "https://curly-adventure-slpw.vercel.app";
+const baseURL = "https://ecommerce-lab-z26a.vercel.app";
 
 console.log(baseURL);
 
